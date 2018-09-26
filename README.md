@@ -45,3 +45,5 @@ chapter 5 Monte Carlo Methods of Sutton's RL book.
 **Thoughts:** I have a lot of questions I want to answer
 during this week and I hope I can find the answers.
 
+**Links:**
+[Sutton's RL book](http://incompleteideas.net/book/bookdraft2018jan1.pdf)
