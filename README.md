@@ -37,3 +37,11 @@ every-visit MC policy evaluation however I am a bit confused where the function
 gets the reward values for the mean return when the reward and transition 
 function is unknown.
 
+## Day 4: September 26, 2018
+
+**Today's Progress:** I have started lecture 3.3 of the course Move 37 and read
+chapter 5 Monte Carlo Methods of Sutton's RL book.
+
+**Thoughts:** I have a lot of questions I want to answer
+during this week and I hope I can find the answers.
+
