@@ -47,3 +47,11 @@ during this week and I hope I can find the answers.
 
 **Links:**
 [Sutton's RL book](http://incompleteideas.net/book/bookdraft2018jan1.pdf)
+
+## Day 5: September 27, 2018
+
+**Today's Progress**: Continue reading lecture 3.3 of the course Move 37.
+
+**Thoughts**: The Multi Armed Bandits methods seems to be useful for RL and I am
+interested to see how well it works for RL.
+
