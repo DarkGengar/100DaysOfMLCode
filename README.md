@@ -60,6 +60,9 @@ interested to see how well it works for RL.
 **Today's Progress:** I have watched the livestream TPU Machine Learning by Siraj Raval
 and read more about Exploration and Exploitation methods.
 
+**Thoughts:** The topic about TPUs is very interesting and I will give it a try
+when I start with Deep Learning.
+
 **Links:**
 [TPU Machine Learning LIVE](https://www.youtube.com/watch?v=jgNwywYcH4w)
 [Multi Armed Bandits Methods](https://www.searchenginepeople.com/blog/16072-multi-armed-bandits-ab-testing-makes-money.html)
