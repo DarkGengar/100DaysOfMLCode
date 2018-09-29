@@ -67,4 +67,16 @@ when I start with Deep Learning.
 [TPU Machine Learning LIVE](https://www.youtube.com/watch?v=jgNwywYcH4w)
 [Multi Armed Bandits Methods](https://www.searchenginepeople.com/blog/16072-multi-armed-bandits-ab-testing-makes-money.html)
 
+## Day 7: September 29, 2018
+
+**Today's Progress:** I have watched lecture 3.4 Monte Carlo Coding 
+Tutorial and complete lecture 3.3 Exploration vs. Exploitation and Multi-Armed Bandits 
+of the course Move 37.
+
+**Thoughts:** I have learned how a model free algorithm estimates the
+value function. As I have understood it the algorithm needs the reward of
+the terminate state to estimate the value function.
+
+**Links:**
+[MC Coding Tutoria](https://www.youtube.com/watch?v=mMEFFN1H5Cg)
 
