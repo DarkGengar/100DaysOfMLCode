@@ -78,5 +78,5 @@ value function. As I have understood it the algorithm needs the reward of
 the terminate state to estimate the value function.
 
 **Links:**
-[MC Coding Tutoria](https://www.youtube.com/watch?v=mMEFFN1H5Cg)
+[MC Coding Tutorial](https://www.youtube.com/watch?v=mMEFFN1H5Cg)
 
