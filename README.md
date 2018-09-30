@@ -80,3 +80,16 @@ the terminate state to estimate the value function.
 **Links:**
 [MC Coding Tutorial](https://www.youtube.com/watch?v=mMEFFN1H5Cg)
 
+## Day 8: September 30, 2018
+
+**Today's Progress:** I have finished lecture 3.4, 3.5, 3.6 and 3.7 of the course Move 37
+and I start coding the MC methods I have learned in chpater 3 Monte Carlo Methods.
+
+**Thoughts:** I have some trouble to implement mathmatical equations into code
+but I hope I can handle this during the next weeks.
+
+**Links:**
+[MC Coding Tutorial](https://www.youtube.com/watch?v=mMEFFN1H5Cg)
+[MC Simulation](https://www.vertex42.com/ExcelArticles/mc/MonteCarloSimulation.html)
+[MC Methods](https://www.kth.se/social/files/58b941d5f276542843812288/RL04-Monte-Carlo.pdf)
+[Q learning for Trading](https://www.youtube.com/watch?v=rRssY6FrTvU)
