@@ -93,3 +93,16 @@ but I hope I can handle this during the next weeks.
 [MC Simulation](https://www.vertex42.com/ExcelArticles/mc/MonteCarloSimulation.html)
 [MC Methods](https://www.kth.se/social/files/58b941d5f276542843812288/RL04-Monte-Carlo.pdf)
 [Q learning for Trading](https://www.youtube.com/watch?v=rRssY6FrTvU)
+
+## Day 9: October 1, 2018
+
+**Today's Progress:** I have continue coding the Monte Carlo Methods and start Chapter 4 Model Free Learning
+of the course Move 37.
+
+**Thoughts:** I have learned the concept of TD learning. It seems to be a good technique
+for real world probelms because of the step-by-step update function.
+
+**Links:**
+[Mathematics of Dopamine](https://www.youtube.com/watch?v=-vhYoS3751g)
+[TD Learning](https://www.youtube.com/watch?v=f4zTDRavVq0)
+[Chapter 6 of Sutton's book](http://incompleteideas.net/book/bookdraft2018jan1.pdf)
