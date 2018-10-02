@@ -106,3 +106,9 @@ for real world probelms because of the step-by-step update function.
 [Mathematics of Dopamine](https://www.youtube.com/watch?v=-vhYoS3751g)
 [TD Learning](https://www.youtube.com/watch?v=f4zTDRavVq0)
 [Chapter 6 of Sutton's book](http://incompleteideas.net/book/bookdraft2018jan1.pdf)
+
+## Day 10: October 2, 2018
+
+**Today's Progress:** I have started coding the TD(0) learning algorithm continue coding MC methods.
+
+**Thoughts:** It is very difficult to code the algorithms but I never give up
