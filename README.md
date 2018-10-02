@@ -111,4 +111,4 @@ for real world probelms because of the step-by-step update function.
 
 **Today's Progress:** I have started coding the TD(0) learning algorithm continue coding MC methods.
 
-**Thoughts:** It is very difficult to code the algorithms but I never give up
+**Thoughts:** It is very difficult to code the algorithms but I will never give up
