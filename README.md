@@ -112,3 +112,11 @@ for real world probelms because of the step-by-step update function.
 **Today's Progress:** I have started coding the TD(0) learning algorithm continue coding MC methods.
 
 **Thoughts:** It is very difficult to code the algorithms but I will never give up
+
+## Day 11: October 3, 2018
+
+**Today's Progress:** I have read chapter 6 of Sutton's RL book and finished my first 
+implementation of the TD(0) prediction algorithm.
+
+**Thoughts:** I understand the topic better and better and make my first
+success. The agent won 1,200 of 10,000 games.
