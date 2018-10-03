@@ -115,8 +115,11 @@ for real world probelms because of the step-by-step update function.
 
 ## Day 11: October 3, 2018
 
-**Today's Progress:** I have read chapter 6 of Sutton's RL book and finished my first 
-implementation of the TD(0) prediction algorithm.
+**Today's Progress:** I have read chapter 6 Temporal-Difference Learning of Sutton's RL
+book and finished my first implementation of the TD(0) prediction algorithm.
 
 **Thoughts:** I understand the topic better and better and make my first
 success. The agent won 1,200 of 10,000 games.
+
+**Link:**
+[Chapter 6 of Sutton's book](http://incompleteideas.net/book/bookdraft2018jan1.pdf)
