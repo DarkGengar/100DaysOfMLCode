@@ -123,3 +123,18 @@ success. The agent won 1,200 of 10,000 games.
 
 **Link:**
 [Chapter 6 of Sutton's book](http://incompleteideas.net/book/bookdraft2018jan1.pdf)
+
+## Day 12: October 4, 2018
+
+**Today's Progress:** Today I have implemented the SARSA algorithm, finished reading chapter 6 
+Temporal-Difference Learning of Sutton's RL book and read the reading assignments of 
+lecture 4.2 of the course Move 37.
+
+**Thoughts:** It makes me happy to see the success of my efforts I did so far.
+The SARSA agent won 1,775 of 10,000 games on average and the best result
+the agent did so far is 3032 wins.
+
+**Links:**
+[Chaapter 6 of Sutton's RL book](http://incompleteideas.net/book/bookdraft2018jan1.pdf)
+[Reward-Based Learning, Model-Based and Model-Free](https://www.quentinhuys.com/pub/HuysEa14-ModelBasedModelFree.pdf)
+[Model-Free Deep RL](https://bair.berkeley.edu/blog/2018/04/26/tdm/)
