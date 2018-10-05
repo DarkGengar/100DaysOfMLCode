@@ -138,3 +138,14 @@ the agent did so far is 3032 wins.
 [Chaapter 6 of Sutton's RL book](http://incompleteideas.net/book/bookdraft2018jan1.pdf)
 [Reward-Based Learning, Model-Based and Model-Free](https://www.quentinhuys.com/pub/HuysEa14-ModelBasedModelFree.pdf)
 [Model-Free Deep RL](https://bair.berkeley.edu/blog/2018/04/26/tdm/)
+
+## Day 13: October 5, 2018
+
+**Today's Progress:** I have implemented the Q-Learning algorithm, compare it with the SARSA algorithm
+and read one paper of the reading assignment.
+
+**Thoughts:** For the environment "Frozen Lake" the result of the algorithms seems to be quite similiar.
+The paper about Temporal-Difference Models looks very interesting but also quite difficult.
+
+**Links:**
+[Paper Temporal Difference Models](https://arxiv.org/abs/1802.09081)
