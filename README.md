@@ -149,3 +149,17 @@ The paper about Temporal-Difference Models looks very interesting but also quite
 
 **Links:**
 [Paper Temporal Difference Models](https://arxiv.org/abs/1802.09081)
+
+## Day 14: October 6, 2018
+
+**Today's Progress:** I have extend the SARSA and Q-Learning algorithm with a variable learning and
+exploration rate, finished lecture 4.5 Q-Learning Tutorial for Ride Sharing of the course Move 37
+and completed the quiz of  chapter 4 of this course. The agent is now a lot better 
+and won 70% of 50000 episodes.
+
+**Thoughts:** This week I get a good understanding of TD Learning.
+Tomorrow I will try to compare the MC methods with the TD Learning methods.
+
+**Links:**
+[Lecture 4.5 Q-Learning Tutorial of Move 37](https://www.youtube.com/watch?v=tU6_Fc6bKyQ)
+
