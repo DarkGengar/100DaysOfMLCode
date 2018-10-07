@@ -163,3 +163,11 @@ Tomorrow I will try to compare the MC methods with the TD Learning methods.
 **Links:**
 [Lecture 4.5 Q-Learning Tutorial of Move 37](https://www.youtube.com/watch?v=tU6_Fc6bKyQ)
 
+## Day 15: October 7, 2018
+
+**Today's Progress:** I have finished dhapter 4 of the course Move 37 and
+started to implement the Monte Carlo method.
+
+**Thoughts:** I hope I can implement the Monte Carlo method in the next few days.
+to compare it with the TD Learning methods. I am excited to see the
+next chapter of the course Move 37.
