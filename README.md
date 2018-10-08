@@ -171,3 +171,11 @@ started to implement the Monte Carlo method.
 **Thoughts:** I hope I can implement the Monte Carlo method in the next few days.
 to compare it with the TD Learning methods. I am excited to see the
 next chapter of the course Move 37.
+
+## Day 16: October 8, 2018
+
+**Today's Progress:** I have some trouble with my implementation of the Monte Carlo mehtod and
+I hope I can fix the problem in the next few days. Start chapter 5 RL in Continuous Spaces of the
+course Move 37.
+
+**Thoghts:** Chapter 5 of the course Move 37 seems to be very interesting.  
