@@ -179,3 +179,12 @@ I hope I can fix the problem in the next few days. Start chapter 5 RL in Continu
 course Move 37.
 
 **Thoghts:** Chapter 5 of the course Move 37 seems to be very interesting.  
+
+## Day 17: October 9, 2018
+
+**Today's Progress:** I watched lecture 5.2 Augmented Random Search Tutorial of the course Move 37.
+
+**Thoughts:** The ARS algorithm is interesting but I have trouble to implement it.
+
+**Links:**
+[ARS algorithm](https://www.youtube.com/watch?v=2P2Dj5PX5cg&t=226s)
