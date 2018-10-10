@@ -188,3 +188,15 @@ course Move 37.
 
 **Links:**
 [ARS algorithm](https://www.youtube.com/watch?v=2P2Dj5PX5cg&t=226s)
+
+# Day 18: October 10, 2018
+
+**Today's Progress:** I have read a paper about ARS and watch lecture 5.1 Inverse
+and Forward Kinematics.
+
+**Thoughts:** Robotics is a very fascinating topic and I want to go deeper into
+this field.
+
+**Links:**
+[Robotic Manipulation Explained](https://www.youtube.com/watch?v=mCI-f71MAvY)
+[ARS Paper](https://arxiv.org/abs/1803.07055)
