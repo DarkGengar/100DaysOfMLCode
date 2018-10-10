@@ -178,7 +178,7 @@ next chapter of the course Move 37.
 I hope I can fix the problem in the next few days. Start chapter 5 RL in Continuous Spaces of the
 course Move 37.
 
-**Thoghts:** Chapter 5 of the course Move 37 seems to be very interesting.  
+**Thoughts:** Chapter 5 of the course Move 37 seems to be very interesting.  
 
 ## Day 17: October 9, 2018
 
@@ -189,7 +189,7 @@ course Move 37.
 **Links:**
 [ARS algorithm](https://www.youtube.com/watch?v=2P2Dj5PX5cg&t=226s)
 
-# Day 18: October 10, 2018
+## Day 18: October 10, 2018
 
 **Today's Progress:** I have read a paper about ARS and watch lecture 5.1 Inverse
 and Forward Kinematics.
