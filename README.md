@@ -204,7 +204,7 @@ this field.
 ## Day 19: October 11, 2018
 
 **Today's Progress:** I watched the video 'How to Get an AI Internship' by Siraj Raval and
-continued reading the paper yesterday.
+continued reading yesterday's paper.
 
 **Thoghts:** The video was very inspiring and I will try to follow some of the
 tipps in the future when I am ready to start searching for an internship.
