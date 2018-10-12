@@ -212,3 +212,13 @@ tipps in the future when I am ready to start searching for an internship.
 **Links:**
 [ARS Paper](https://arxiv.org/abs/1803.07055)
 [How to Get an AI Internship](https://www.youtube.com/watch?v=CGTn0ceOaOM)
+
+## Day 20: October 12, 2018
+
+**Today's Progress:** I watched the livestream Quantum Machine Learning by Siraj Raval.
+
+**Thoughts:** I am very interested in Quantum Programming and excited to see
+more about this topic in the future.
+
+**Links:**
+[Quantum Machine Learning LIVE](https://www.youtube.com/watch?v=AAO4oq2M_48)
