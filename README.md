@@ -222,3 +222,12 @@ more about this topic in the future.
 
 **Links:**
 [Quantum Machine Learning LIVE](https://www.youtube.com/watch?v=AAO4oq2M_48)
+
+## Day 21: October 13, 2018
+
+**Today's Progress:** I read the lecture 5.4 Inverse Kinematics of the course Move 37
+and tried to implement the ARS algorithm but the gym environment 'BipedalWalker-v2'
+did not work because of dependency problems with Box2D.
+
+ **Thoughts:** Currently it is very difficult and I have technical and understanding problems
+ but I try to continue my journey.
