@@ -239,3 +239,6 @@ did not work because of dependency problems with Box2D.
  fixed the dependency issues of Box2D.
  
  **Thoughts:** I am glad that the issues are fixed and I can continue the course Move 37.
+ 
+ **Links:**
+ [Forward Kinematics](https://www.youtube.com/watch?v=xXjRlEr7AGk)
