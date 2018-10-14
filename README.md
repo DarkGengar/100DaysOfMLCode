@@ -231,3 +231,11 @@ did not work because of dependency problems with Box2D.
 
  **Thoughts:** Currently it is very difficult and I have technical and understanding problems
  but I try to continue my journey.
+ 
+ ## Day 22: October 14, 2018
+ 
+ **Today's Progress:** I have continued read the lecture 5.4 Inverse Kinematics of the course Move 37
+ watched the video 'Coding Challenge #64.1: Forward Kinematics' by The Coding Train and
+ fixed the dependency issues of Box2D.
+ 
+ **Thoughts:** I am glad that the issues are fixed and I can continue the course Move 37.
