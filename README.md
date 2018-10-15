@@ -242,3 +242,15 @@ did not work because of dependency problems with Box2D.
  
  **Links:**
  [Forward Kinematics](https://www.youtube.com/watch?v=xXjRlEr7AGk)
+ 
+ ## Day 23: October 15, 2018
+ 
+ **Today's Progress:** I watched the video 'SQL Database Optimization' by Siraj Raval and
+ watched the first 5 videos of Python 3 Pygame tutorial series by Sentdex.
+ 
+ **Thoughts:** I have a lot of work to do in the course Move 37 and I hope I can catch up
+ the missing lectures of the last week.
+ 
+ **Links:**
+ [SQL Database Optimization](https://www.youtube.com/watch?v=Rw3ewEXOKC8)
+ [Pygame Tutorial Series](https://www.youtube.com/watch?v=ujOTNg17LjI&list=PLQVvvaa0QuDdLkP8MrOXLe_rKuf6r80KO)
