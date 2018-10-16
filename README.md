@@ -254,3 +254,14 @@ did not work because of dependency problems with Box2D.
  **Links:**
  [SQL Database Optimization](https://www.youtube.com/watch?v=Rw3ewEXOKC8)
  [Pygame Tutorial Series](https://www.youtube.com/watch?v=ujOTNg17LjI&list=PLQVvvaa0QuDdLkP8MrOXLe_rKuf6r80KO)
+ 
+ ## Day 24: October 16, 2018
+ 
+ **Today's Progress:** I began with chapter 6 'Deep Reinforcement Learning' of the course Move 37
+ and watched lecture 6.2 'Deep Q-Learning Pong Tutorial'.
+ 
+ **Thoughts:** I want to see how much better the Deep Q-Learning algorithmn is compared to the 
+ normal Q-Learning algorithm.
+ 
+ **Links:**
+ [Deep Q-Learning Pong Tutorial](https://www.youtube.com/watch?v=pST6caY3mu8)
