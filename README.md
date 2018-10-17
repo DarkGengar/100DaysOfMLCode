@@ -252,7 +252,7 @@ did not work because of dependency problems with Box2D.
  the missing lectures of the last week.
  
  **Links:**
- [SQL Database Optimization](https://www.youtube.com/watch?v=Rw3ewEXOKC8)
+ [SQL Database Optimization](https://www.youtube.com/watch?v=Rw3ewEXOKC8) \
  [Pygame Tutorial Series](https://www.youtube.com/watch?v=ujOTNg17LjI&list=PLQVvvaa0QuDdLkP8MrOXLe_rKuf6r80KO)
  
  ## Day 24: October 16, 2018
@@ -276,6 +276,6 @@ better understanding of the magic behind the scenes.
 the algorithm during this week.
 
 **Links:**
-[Deep Q-Learning with Keras and Gym](https://keon.io/deep-q-learning/)
-[A Beginner's Guide to Deep Reinforcement Learning](https://skymind.ai/wiki/deep-reinforcement-learning)
+[Deep Q-Learning with Keras and Gym](https://keon.io/deep-q-learning/) \
+[A Beginner's Guide to Deep Reinforcement Learning](https://skymind.ai/wiki/deep-reinforcement-learning) \
 [An Introduction to Deep Q-Learning: let's play Doom](https://medium.freecodecamp.org/an-introduction-to-deep-q-learning-lets-play-doom-54d02d8017d8)
