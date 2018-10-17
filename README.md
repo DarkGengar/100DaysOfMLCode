@@ -265,3 +265,17 @@ did not work because of dependency problems with Box2D.
  
  **Links:**
  [Deep Q-Learning Pong Tutorial](https://www.youtube.com/watch?v=pST6caY3mu8)
+
+
+## Day 25: October 17, 2018
+
+**Today's Progress:** I have read several articles about Deep Q-Learning for a
+better understanding of the magic behind the scenes.
+
+**Thoughts:** Deep Q-Learning is quite interesting and I will implement
+the algorithm during this week.
+
+**Links:**
+[Deep Q-Learning with Keras and Gym](https://keon.io/deep-q-learning/)
+[A Beginner's Guide to Deep Reinforcement Learning](https://skymind.ai/wiki/deep-reinforcement-learning)
+[An Introduction to Deep Q-Learning: let's play Doom](https://medium.freecodecamp.org/an-introduction-to-deep-q-learning-lets-play-doom-54d02d8017d8)
