@@ -275,7 +275,7 @@ better understanding of the magic behind the scenes.
 **Thoughts:** Deep Q-Learning is quite interesting and I will implement
 the algorithm during this week.
 
-**Links:**
+**Links:** \
 [Deep Q-Learning with Keras and Gym](https://keon.io/deep-q-learning/) \
 [A Beginner's Guide to Deep Reinforcement Learning](https://skymind.ai/wiki/deep-reinforcement-learning) \
 [An Introduction to Deep Q-Learning: let's play Doom](https://medium.freecodecamp.org/an-introduction-to-deep-q-learning-lets-play-doom-54d02d8017d8)
