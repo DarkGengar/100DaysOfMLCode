@@ -279,3 +279,12 @@ the algorithm during this week.
 [Deep Q-Learning with Keras and Gym](https://keon.io/deep-q-learning/) \
 [A Beginner's Guide to Deep Reinforcement Learning](https://skymind.ai/wiki/deep-reinforcement-learning) \
 [An Introduction to Deep Q-Learning: let's play Doom](https://medium.freecodecamp.org/an-introduction-to-deep-q-learning-lets-play-doom-54d02d8017d8)
+
+## Day 26: October 18, 2018
+
+**Today's Progress:** I continued reading the article 'Deep Q-Learning with Keras and Gym' and
+watch the video 'The Anti Facebook' by Siraj Raval.
+
+**Links:** \
+[The Anti Facebook](https://www.youtube.com/watch?v=T5zIlWSMlU8&t=502s) \
+[Deep Q-Learning with Keras and Gym](https://keon.io/deep-q-learning/)
