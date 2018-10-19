@@ -288,3 +288,13 @@ watch the video 'The Anti Facebook' by Siraj Raval.
 **Links:** \
 [The Anti Facebook](https://www.youtube.com/watch?v=T5zIlWSMlU8&t=502s) \
 [Deep Q-Learning with Keras and Gym](https://keon.io/deep-q-learning/)
+
+
+## Day 27: October 19, 2018
+
+**Today's Progress:** I have started with PyTorch and read the 'Getting Started Series' on the PyTorch site.
+
+**Thoughts:** PyTorch is a powerful library and I will create some projects with the library.
+
+**Links:** \
+[Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
