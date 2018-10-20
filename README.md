@@ -298,3 +298,10 @@ watch the video 'The Anti Facebook' by Siraj Raval.
 
 **Links:** \
 [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+
+## Day 28: October 20, 2018
+
+**Today's Progress:** I have finished the tutorial 'Deep Learning with PyTorch: A 60 Minute Blitz'.
+
+**Links:** \
+[Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
