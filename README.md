@@ -308,10 +308,10 @@ watch the video 'The Anti Facebook' by Siraj Raval.
 
 ## Day 29: October 21, 2018
 
-**Today's Progress:** I have worked a lot with the PyTorch library and try to implement a dataset class.
+**Today's Progress:** I have worked a lot with the PyTorch library and tried to implement a dataset class.
 
 **Thoughts:** I am very excited about PyTorch and how many tools they provide for the development of
-the neural network (computations, dataset class, dataloader).
+neural networks (computations, dataset class, dataloader).
 
 **Links:** \
 [Data Loading and Processing Tutorial](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html#sphx-glr-download-beginner-data-loading-tutorial-py) \
