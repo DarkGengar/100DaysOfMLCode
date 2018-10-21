@@ -305,3 +305,15 @@ watch the video 'The Anti Facebook' by Siraj Raval.
 
 **Links:** \
 [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+
+## Day 29: October 21, 2018
+
+**Today's Progress:** I have worked a lot with the PyTorch library and try to implement a dataset class.
+
+**Thoughts:** I am very excited about PyTorch and how many tools they provide for the development of
+the neural network (computations, dataset class, dataloader).
+
+**Links:** \
+[Data Loading and Processing Tutorial](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html#sphx-glr-download-beginner-data-loading-tutorial-py) \
+[Dataset examples](https://github.com/pytorch/vision/tree/master/torchvision/datasets) \
+
