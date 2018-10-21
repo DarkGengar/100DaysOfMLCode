@@ -315,5 +315,4 @@ the neural network (computations, dataset class, dataloader).
 
 **Links:** \
 [Data Loading and Processing Tutorial](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html#sphx-glr-download-beginner-data-loading-tutorial-py) \
-[Dataset examples](https://github.com/pytorch/vision/tree/master/torchvision/datasets) \
-
+[Dataset examples](https://github.com/pytorch/vision/tree/master/torchvision/datasets)
