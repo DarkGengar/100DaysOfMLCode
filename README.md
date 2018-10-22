@@ -320,10 +320,12 @@ neural networks (computations, dataset class, dataloader).
 
 ## Day 30: October 22, 2018
 
-**Today's Progress:** I have continued working on the dataset class and read a deep learning book.
+**Today's Progress:** I have continued working on the dataset class, read a deep learning book
+and watched the video 'Meta Learning' by Siraj Raval.
 
 **Thoughts:** Data preprocessing is very time consuming.
 
 **Links:** \
 [Data Loading and Processing Tutorial](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html#sphx-glr-download-beginner-data-loading-tutorial-py) \
-[Deep Learning Book](http://www.deeplearningbook.org/contents/intro.html)
+[Deep Learning Book](http://www.deeplearningbook.org/contents/intro.html) \
+[Meta Learning](https://www.youtube.com/watch?v=2z0ofe2lpz4)
