@@ -316,3 +316,14 @@ neural networks (computations, dataset class, dataloader).
 **Links:** \
 [Data Loading and Processing Tutorial](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html#sphx-glr-download-beginner-data-loading-tutorial-py) \
 [Dataset examples](https://github.com/pytorch/vision/tree/master/torchvision/datasets)
+
+
+## Day 30: October 22, 2018
+
+**Today's Progress:** I have continued working on the dataset class and read a deep learning book.
+
+**Thoughts:** Data preprocessing is very time consuming.
+
+**Links:** \
+[Data Loading and Processing Tutorial](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html#sphx-glr-download-beginner-data-loading-tutorial-py) \
+[Deep Learning Book](http://www.deeplearningbook.org/contents/intro.html)
