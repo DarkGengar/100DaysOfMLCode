@@ -329,3 +329,14 @@ and watched the video 'Meta Learning' by Siraj Raval.
 [Data Loading and Processing Tutorial](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html#sphx-glr-download-beginner-data-loading-tutorial-py) \
 [Deep Learning Book](http://www.deeplearningbook.org/contents/intro.html) \
 [Meta Learning](https://www.youtube.com/watch?v=2z0ofe2lpz4)
+
+## Day 31: October 23, 2018
+
+**Today's Progress:** I have finished the dataset class for my image classiefier and
+read in the 'Deep Learning Book' the introduction. I paused the course 'Move 37' and start
+with the 6 week Deep Learning curriculum by Siraj Raval because I want to read more about Deep Learning 
+before I do more RL stuff.
+
+**Links:** \
+[Curriculum Deep Learning](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks) \
+[Intro Deep Learning Book](http://www.deeplearningbook.org/contents/intro.html)
