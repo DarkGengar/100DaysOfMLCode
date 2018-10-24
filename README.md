@@ -340,3 +340,15 @@ before I do more RL stuff.
 **Links:** \
 [Curriculum Deep Learning](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks) \
 [Intro Deep Learning Book](http://www.deeplearningbook.org/contents/intro.html)
+
+## Day 32: October 24, 2018
+
+**Today's Progress:** I have read the Linear Algebra part of part 1 of the Deep Learning Book and
+watched the first 7 videos of the Linear Algebra series by 3Blue1Brown.
+
+**Thoughts:** Linear Algebra is very interesting and I am excited to see it in the
+Deep Learning concepts.
+
+**Links:**\
+[Linear Algebra Deep Learning Book](http://www.deeplearningbook.org/contents/linear_algebra.html) \
+[Linear Algebra Series](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
