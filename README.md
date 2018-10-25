@@ -352,3 +352,12 @@ Deep Learning concepts.
 **Links:**\
 [Linear Algebra Deep Learning Book](http://www.deeplearningbook.org/contents/linear_algebra.html) \
 [Linear Algebra Series](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+## Day 33: October 25, 2018
+
+**Today's Progress:** I have finished the Linear Algebra series by 3Blue1Brown and continued
+reading the Linear Algebra part of the Deep Learning book.
+
+**Links:**\
+[Linear Algebra Deep Learning Book](http://www.deeplearningbook.org/contents/linear_algebra.html) \
+[Linear Algebra Series](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
