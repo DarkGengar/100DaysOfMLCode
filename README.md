@@ -368,3 +368,11 @@ reading the Linear Algebra part of the Deep Learning book.
 
 **Links:**\
 [Probability Deep Learning Book](http://www.deeplearningbook.org/contents/prob.html)
+
+## Day 35: October 27, 2018
+
+**Today's Progress:** I continued reading the probability chapter of the Deep Learning book.
+
+**Links:**\
+[Probability Deep Learning Book](http://www.deeplearningbook.org/contents/prob.html)
+
