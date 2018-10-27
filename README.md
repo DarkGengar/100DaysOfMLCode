@@ -373,6 +373,10 @@ reading the Linear Algebra part of the Deep Learning book.
 
 **Today's Progress:** I continued reading the probability chapter of the Deep Learning book.
 
+**Thoughts:** It is very hard to understand all the mathematic formulas however
+with good techniques such as visualization and dividing the formulas in small
+pieces I got a good understanding of the formulas in this chapter.
+
 **Links:**\
 [Probability Deep Learning Book](http://www.deeplearningbook.org/contents/prob.html)
 
