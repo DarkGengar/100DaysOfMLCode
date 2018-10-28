@@ -380,3 +380,10 @@ pieces I got a good understanding of the formulas in this chapter.
 **Links:**\
 [Probability Deep Learning Book](http://www.deeplearningbook.org/contents/prob.html)
 
+## Day 36: October 28, 2018
+
+**Today's Progress:** I have analyzed some equations from the probability chapter of the Deep Learning book
+and implement them in Python.
+
+**Links:**\
+[Probability Deep Learning Book](http://www.deeplearningbook.org/contents/prob.html)
