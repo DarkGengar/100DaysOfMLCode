@@ -387,3 +387,11 @@ and implement them in Python.
 
 **Links:**\
 [Probability Deep Learning Book](http://www.deeplearningbook.org/contents/prob.html)
+
+## Day 37: October 29, 2018
+
+**Today's Progress:** I have started with the Calculus series by 3Blue1Brown and read chapter 4 numerical
+computation of the Deep Learning book.
+
+[Numerical Computation Deep Learning Book](http://www.deeplearningbook.org/contents/numerical.html)
+[Calculus Series](https://www.youtube.com/watch?v=WUvTyaaNkzM&t=0s&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=2)
