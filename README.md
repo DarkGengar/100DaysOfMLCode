@@ -393,5 +393,13 @@ and implement them in Python.
 **Today's Progress:** I have started with the Calculus series by 3Blue1Brown and read chapter 4 numerical
 computation of the Deep Learning book.
 
-[Numerical Computation Deep Learning Book](http://www.deeplearningbook.org/contents/numerical.html)
+**Links:** \
+[Numerical Computation Deep Learning Book](http://www.deeplearningbook.org/contents/numerical.html)\
+[Calculus Series](https://www.youtube.com/watch?v=WUvTyaaNkzM&t=0s&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=2)
+
+## Day 38: October 30, 2018
+
+**Today's Progess:** I have watched video 3 of the Calculus series by 3Blue1Brown.
+
+**Links:** \
 [Calculus Series](https://www.youtube.com/watch?v=WUvTyaaNkzM&t=0s&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=2)
