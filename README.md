@@ -403,3 +403,14 @@ computation of the Deep Learning book.
 
 **Links:** \
 [Calculus Series](https://www.youtube.com/watch?v=WUvTyaaNkzM&t=0s&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=2)
+
+## Day 39: October 31, 2018
+
+**Today's Progress:** I have watched video 4 - 6 of the Calculus series by 3Blue1Brown and played around with
+the ideas of the videos.
+
+**Thoughts:** The visualizations of the mathematical problems are very helpful to understand
+the ideas behind calculus.
+
+**Links:** \
+[Calculus Series](https://www.youtube.com/watch?v=WUvTyaaNkzM&t=0s&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=2)
