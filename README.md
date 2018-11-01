@@ -414,3 +414,13 @@ the ideas behind calculus.
 
 **Links:** \
 [Calculus Series](https://www.youtube.com/watch?v=WUvTyaaNkzM&t=0s&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=2)
+
+## Day 40: November 1, 2018
+
+**Today's Progress:** I have finished the Calculus series by 3Blue1Brown.
+
+**Thoughts:**  I learned a lot from this series. My next steps will be to play around with the
+fundamental ideas I have learned and I hope I can use them for the next stage of my journey.
+
+**Links:** \
+[Calculus Series](https://www.youtube.com/watch?v=WUvTyaaNkzM&t=0s&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=2)
