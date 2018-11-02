@@ -424,3 +424,15 @@ fundamental ideas I have learned and I hope I can use them for the next stage of
 
 **Links:** \
 [Calculus Series](https://www.youtube.com/watch?v=WUvTyaaNkzM&t=0s&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&index=2)
+
+## Day 41: November 2, 2018
+
+**Today's Progress:** I have did some exercises on brilliant.org and start their Artificial Neural Networks
+course.
+
+**Thoughts:** Brilliant.org is a great website to train the mathematical skills and I will do
+the Artificial Neural Networks Course for the next few days to get a better intuitive understanding
+of the math behind the scenes.
+
+**Links:**
+[Brilliant.org ANN course](https://brilliant.org/courses/artificial-neural-networks)
