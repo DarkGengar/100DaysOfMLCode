@@ -437,7 +437,7 @@ of the math behind the scenes.
 **Links:**
 [Brilliant.org ANN course](https://brilliant.org/courses/artificial-neural-networks)
 
-## Day 42: November 3,2018
+## Day 42: November 3, 2018
 
 **Today's Progress:** I have finished chapter 1 and 2 of the course ANN on brilliant.org.
 
