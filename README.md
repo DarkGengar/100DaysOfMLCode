@@ -447,7 +447,7 @@ of the math behind the scenes.
 
 ## Day 43: November 4, 2018
 
-**Today's Progress:** I have finished chapter 3 of the course ANN on brilliant.org
+**Today's Progress:** I have finished chapter 3 of the course ANN on brilliant.org.
 
 **Links:**
 [Brilliant.org ANN course](https://brilliant.org/courses/artificial-neural-networks)
