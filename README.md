@@ -451,3 +451,11 @@ of the math behind the scenes.
 
 **Links:**
 [Brilliant.org ANN course](https://brilliant.org/courses/artificial-neural-networks)
+
+## Day 44: Novmeber 5, 2018
+
+**Today's Progress:** I have started with chapter 4 Multilayer Perceptrons of the course ANN on brilliant.org.
+I have learned about the basic structure of a single and multilayer perceptron.
+
+**Links:**
+[Brilliant.org ANN course](https://brilliant.org/courses/artificial-neural-networks)
