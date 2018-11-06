@@ -459,3 +459,12 @@ I have learned about the basic structure of a single and multilayer perceptron.
 
 **Links:**
 [Brilliant.org ANN course](https://brilliant.org/courses/artificial-neural-networks)
+
+## Day 45: November 6,2018
+
+**Today's Progress:** I have continued with chapter 4 'Multilayer Perceptrons' of the course ANN on brilliant.org and
+learned about conditional probability.
+
+**Links:**
+[Brilliant.org ANN course](https://brilliant.org/courses/artificial-neural-networks)
+
