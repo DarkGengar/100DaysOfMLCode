@@ -468,3 +468,6 @@ learned about conditional probability.
 **Links:**
 [Brilliant.org ANN course](https://brilliant.org/courses/artificial-neural-networks)
 
+## Day 46: November 7, 2018
+
+**Today's Progress:** I have learned about conditional probability and Bayes' theorem.
