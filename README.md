@@ -471,3 +471,14 @@ learned about conditional probability.
 ## Day 46: November 7, 2018
 
 **Today's Progress:** I have learned about conditional probability and Bayes' theorem.
+
+## Day 47: November 8, 2018
+
+**Today's Progress:** I have continued with conditional probability.
+
+**Links:**\
+[Conditional Probability](https://brilliant.org/wiki/conditional-probability/) \
+[Bayes' Theorem](https://brilliant.org/wiki/bayes-theorem/) \
+[Probability And and Or](https://www.youtube.com/watch?v=psTBo1lCH1A&t=415s)
+
+
