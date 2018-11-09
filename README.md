@@ -481,4 +481,14 @@ learned about conditional probability.
 [Bayes' Theorem](https://brilliant.org/wiki/bayes-theorem/) \
 [Probability And and Or](https://www.youtube.com/watch?v=psTBo1lCH1A&t=415s)
 
+## Day 48: November 9, 2018
 
+**Today's Progress:** I have finished chapter 4 'Multilayer Perceptrons' and 5 'Backpropagation' of the course
+ANN on brilliant.org.
+
+**Thoughts:** Now I have done the basics of Deep Learning and try to code a simple neural network
+from scratch.
+
+**Links:** \
+[Brilliant.org ANN course](https://brilliant.org/courses/artificial-neural-networks)\
+[Build a Neural Net in 4 Minutes](https://www.youtube.com/watch?v=h3l4qz76JhQ)
