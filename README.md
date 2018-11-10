@@ -497,3 +497,6 @@ from scratch.
 
 **Today's Progress:** I have started to implement the neural network and read the 
 book 'Make Your Own Neural Network' by Tariq Rashid.
+
+**Thoughts:** The book is a great introduction to neural networks and the math part
+is very well explained.
