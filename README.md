@@ -495,4 +495,5 @@ from scratch.
 
 ## Day 49: November 10, 2018
 
-**Today's Progress:** I have started to implement the neural network.
+**Today's Progress:** I have started to implement the neural network and read the 
+book 'Make Your Own Neural Network' by Tariq Rashid.
