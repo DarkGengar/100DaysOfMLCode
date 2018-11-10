@@ -492,3 +492,7 @@ from scratch.
 **Links:** \
 [Brilliant.org ANN course](https://brilliant.org/courses/artificial-neural-networks)\
 [Build a Neural Net in 4 Minutes](https://www.youtube.com/watch?v=h3l4qz76JhQ)
+
+## Day 49: November 10, 2018
+
+**Today's Progress:** I have started to implement the neural network.
