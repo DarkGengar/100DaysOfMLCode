@@ -500,3 +500,10 @@ book 'Make Your Own Neural Network' by Tariq Rashid.
 
 **Thoughts:** The book is a great introduction to neural networks and the math part
 is very well explained.
+
+## Day 50: November 11, 2018
+
+**Today's Progress:** I have implemented my first Neural Network.
+
+**Thoughts:** Now the first half of my journey is over and I am happy that I have implemented
+my first Neural Network.
