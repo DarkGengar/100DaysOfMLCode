@@ -507,3 +507,12 @@ is very well explained.
 
 **Thoughts:** Now the first half of my journey is over and I am happy that I have implemented
 my first Neural Network.
+
+## Day 51: November 12, 2018
+
+**Today's Progress:** I have worked on my Neural Network and optimize some parameters.
+Furthermore I watched the video 'Move 37 Explained' by Siraj Raval.
+The best result is 66.66 per cent correct answers of the MNIST Dataset so far.
+
+**Links:**
+[Move 37 Explained](https://www.youtube.com/watch?v=vI9BllT7ovg)
