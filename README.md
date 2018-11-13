@@ -516,3 +516,10 @@ The best result is 66.66 per cent correct answers of the MNIST Dataset so far.
 
 **Links:**
 [Move 37 Explained](https://www.youtube.com/watch?v=vI9BllT7ovg)
+
+## Day 52: November 13, 2018
+
+**Today's Progress:** I have started with chapter 6 'Convolutional Neural Networks' of 
+the ANN course on brillian.org.
+
+[ANN Course](https://brilliant.org/courses/artificial-neural-networks/)
