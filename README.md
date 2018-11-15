@@ -523,3 +523,10 @@ The best result is 66.66 per cent correct answers of the MNIST Dataset so far.
 the ANN course on brillian.org.
 
 [ANN Course](https://brilliant.org/courses/artificial-neural-networks/)
+
+## Day 53: November 14, 2018
+
+**Today's Progress:** I have continued chapter 6 'Convolutional Neural Networks' of the
+ANN course on brilliant.org.
+
+[ANN Course](https://brilliant.org/courses/artificial-neural-networks/)
