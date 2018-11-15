@@ -530,3 +530,8 @@ the ANN course on brillian.org.
 ANN course on brilliant.org.
 
 [ANN Course](https://brilliant.org/courses/artificial-neural-networks/)
+
+## Day 54: November 15, 2018
+
+**Today's Progress:** I have learned about the basic concepts of Convolutional Neural Networks
+and do some math exercises.
