@@ -538,7 +538,7 @@ and do some math exercises.
 
 ## Day 55: November 16, 2018
 
-**Today's Progress:** I have completed chapter 6 'Convolutional Neural Networks',
+**Today's Progress:** I have finished chapter 6 'Convolutional Neural Networks',
 watched Siraj Raval's video about CNNs and read additional resources about this
 topic.
 
