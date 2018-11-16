@@ -535,3 +535,18 @@ ANN course on brilliant.org.
 
 **Today's Progress:** I have learned about the basic concepts of Convolutional Neural Networks
 and do some math exercises.
+
+## Day 55: November 16, 2018
+
+**Today's Progress:** I have completed chapter 6 'Convolutional Neural Networks',
+watched Siraj Raval's video about CNNs and read additional resources about this
+topic.
+
+**Thoughts:** I learned a lot from the resources and I will code in the next few days
+a Convolutional Neural Network from scratch with the numpy library.
+
+**Links:** \
+[The Math of Intelligence - Convolutional Neural Networks](https://www.youtube.com/watch?v=FTr3n7uBIuE&t=1782s) \
+[CNNs](http://deeplearning.net/tutorial/lenet.html) \
+[An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/) \
+[ANN course](https://brilliant.org/courses/artificial-neural-networks/)
