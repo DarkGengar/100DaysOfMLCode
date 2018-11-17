@@ -550,3 +550,12 @@ a Convolutional Neural Network from scratch with the numpy library.
 [CNNs](http://deeplearning.net/tutorial/lenet.html) \
 [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/) \
 [ANN course](https://brilliant.org/courses/artificial-neural-networks/)
+
+## Day 56: November 17, 2018
+
+**Today's Progress:** I have read some articles about CNNs.
+
+**Links:** \
+[An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/) \
+[CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/) \
+[Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
