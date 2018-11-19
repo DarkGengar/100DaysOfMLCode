@@ -568,3 +568,10 @@ a Convolutional Neural Network from scratch with the numpy library.
 [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/) \
 [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/) \
 [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
+
+## Day 58: November 19, 2018
+
+**Today's Progress:** I have learned about the Scrapy python library.
+
+**Links:** \
+[Scraoy Tutorial](https://towardsdatascience.com/using-scrapy-to-build-your-own-dataset-64ea2d7d4673)
