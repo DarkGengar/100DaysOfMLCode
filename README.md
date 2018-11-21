@@ -575,3 +575,11 @@ a Convolutional Neural Network from scratch with the numpy library.
 
 **Links:** \
 [Scraoy Tutorial](https://towardsdatascience.com/using-scrapy-to-build-your-own-dataset-64ea2d7d4673)
+
+## Day 59: November 20, 2018
+
+**Today's Progress:** I have learned about methods to upload datasets into Google Colab.
+
+## Day 60: November 21, 2018
+
+**Today's Progress:** I have prepare the CIFAR-10 dataset for the neural network.
