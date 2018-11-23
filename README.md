@@ -583,3 +583,13 @@ a Convolutional Neural Network from scratch with the numpy library.
 ## Day 60: November 21, 2018
 
 **Today's Progress:** I have prepare the CIFAR-10 dataset for the neural network.
+
+## Day 61: November 22, 2018
+
+**Today's Progress:** I have continued preparing the CIFAR-10 dataset for the Convolutional Neural Network.
+
+## Day 62: November 23, 2018
+
+**Today's Progress:** I have finished the preprocessing of the CIFAR-10 dataset.
+
+**Thoughts:** My next steps will be to code a simple Convolutional Neural Network.
