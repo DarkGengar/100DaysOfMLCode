@@ -593,3 +593,10 @@ a Convolutional Neural Network from scratch with the numpy library.
 **Today's Progress:** I have finished the preprocessing of the CIFAR-10 dataset.
 
 **Thoughts:** My next steps will be to code a simple Convolutional Neural Network.
+
+## Day 63: November 24, 2018
+
+**Today's Progress:** I have started coding the Convolutional Neural Network.
+
+**Thoughts:** 3-D matrices can be very confusing and difficult to visualize but
+the best way I found is to imagine the matrix as collection of images.
