@@ -598,5 +598,5 @@ a Convolutional Neural Network from scratch with the numpy library.
 
 **Today's Progress:** I have started coding the Convolutional Neural Network.
 
-**Thoughts:** 3-D matrices can be very confusing and difficult to visualize but
+**Thoughts:** 3-D matrices can be very confusing and hard to visualize but
 the best way I found is to imagine the matrix as collection of images.
