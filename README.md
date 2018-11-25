@@ -600,3 +600,10 @@ a Convolutional Neural Network from scratch with the numpy library.
 
 **Thoughts:** 3-D matrices can be very confusing and hard to visualize but
 the best way I found is to imagine the matrix as collection of images.
+
+## Day 64: November 25, 2018
+
+**Today's Progress:** I have finished the forward propagation structure for the Convolutional Neural Network.
+
+**Thoughts:** Backpropagation of a Convolutional Neural Network seems to be harder than
+the Backpropagation of a Fully Connected Neural Network.
