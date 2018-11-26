@@ -607,3 +607,13 @@ the best way I found is to imagine the matrix as collection of images.
 
 **Thoughts:** Backpropagation of a Convolutional Neural Network seems to be harder than
 the Backpropagation of a Fully Connected Neural Network.
+
+## Day 65: November 26, 2018
+
+**Today's Progress:** I have read some articles about Backpropagation in Convolutional Layers.
+
+**Links:** \
+[Back Propagation in Convolutional Neural Networks — Intuition and Code](https://becominghuman.ai/back-propagation-in-convolutional-neural-networks-intuition-and-code-714ef1c38199) \
+[Convolutional Neural Networks backpropagation: from intuition to derivation](https://grzegorzgwardys.wordpress.com/2016/04/22/8/) \
+[Backpropagation In Convolutional Neural Networks](https://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/) \
+[Forward And Backpropagation in Convolutional Neural Network.](https://medium.com/@2017csm1006/forward-and-backpropagation-in-convolutional-neural-network-4dfa96d7b37e)
