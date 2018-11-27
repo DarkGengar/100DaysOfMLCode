@@ -617,3 +617,12 @@ the Backpropagation of a Fully Connected Neural Network.
 [Convolutional Neural Networks backpropagation: from intuition to derivation](https://grzegorzgwardys.wordpress.com/2016/04/22/8/) \
 [Backpropagation In Convolutional Neural Networks](https://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/) \
 [Forward And Backpropagation in Convolutional Neural Network.](https://medium.com/@2017csm1006/forward-and-backpropagation-in-convolutional-neural-network-4dfa96d7b37e)
+
+## Day 66: November 27, 2018
+
+**Today's Progress:** I have continued reading some articles about Backpropagation in Convolutional Layer.
+
+**Thoughts:** I have some difficulties to understand the Backpropagation method in CNN.
+
+**Links:** \
+[Derivation of Backpropagation in Convolutional Neural Network (CNN)](https://pdfs.semanticscholar.org/5d79/11c93ddcb34cac088d99bd0cae9124e5dcd1.pdf)
