@@ -626,3 +626,10 @@ the Backpropagation of a Fully Connected Neural Network.
 
 **Links:** \
 [Derivation of Backpropagation in Convolutional Neural Network (CNN)](https://pdfs.semanticscholar.org/5d79/11c93ddcb34cac088d99bd0cae9124e5dcd1.pdf)
+
+## Day 67: November 28, 2018
+
+**Today's Progress:** I have read chapter 2 of the online book 'Neural Networks and Deep Learning' by Michael Nielsen.
+
+**Links:** \
+[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/chap2.html)
