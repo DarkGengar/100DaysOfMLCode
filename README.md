@@ -633,3 +633,10 @@ the Backpropagation of a Fully Connected Neural Network.
 
 **Links:** \
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/chap2.html)
+
+## Day 68: November 29, 2018
+
+**Today's Progress:** I have derived some functions needed for Backpropagation.
+
+**Links:** \
+[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/chap2.html)
