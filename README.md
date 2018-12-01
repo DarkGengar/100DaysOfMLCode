@@ -640,3 +640,11 @@ the Backpropagation of a Fully Connected Neural Network.
 
 **Links:** \
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/chap2.html)
+
+## Day 69: November 30, 2018
+
+**Today's Progress:** I have worked on a Neural Network with MNIST dataset implemented in Pytorch.
+
+## Day 70: December 1, 2018
+
+**Today's Progress:** I have continued working on the Neural Network.
