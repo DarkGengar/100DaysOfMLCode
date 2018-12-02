@@ -654,4 +654,4 @@ the Backpropagation of a Fully Connected Neural Network.
 **Today's Progress:** I have wrote a Convolutional Neural Network in Pytorch.
 
 **Thoughts:** Implementing Neural Networks in Pytorch is very nice.
-The current accuracy of my network is around 94 %.
+The current accuracy of my network is around 94 % on MNIST dataset.
