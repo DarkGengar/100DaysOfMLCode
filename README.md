@@ -655,3 +655,10 @@ the Backpropagation of a Fully Connected Neural Network.
 
 **Thoughts:** Implementing Neural Networks in Pytorch is very nice.
 The current accuracy of my network is around 94 % on MNIST dataset.
+
+## Day 72: December 3, 2018
+
+**Today's Progress:** I have try to implement a save feature for my Neural Network and setup for this
+task Google Drive and Google Colab. The accuracy of my NN is now 98.35 %.
+
+**Thoughts:** I hope I can optimize my net a bit to reach 99 %.
