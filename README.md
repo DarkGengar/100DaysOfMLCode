@@ -662,3 +662,15 @@ The current accuracy of my network is around 94 % on MNIST dataset.
 task Google Drive and Google Colab. The accuracy of my NN is now 98.35 %.
 
 **Thoughts:** I hope I can optimize my net a bit to reach 99 %.
+
+## Day 73: December 4, 2018
+
+**Today's Progress:** I have finished implementing Google Drive support for my save feature of 
+the Neural Network in Google Colab.
+
+**Links:**\
+[How to load data from Google Drive to Pandas running in Google Colaboratory](https://mikulskibartosz.name/how-to-load-data-from-google-drive-to-pandas-running-in-google-colaboratory-a7f6a033c997) \
+[External data: Drive, Sheets, and Cloud Storage](https://colab.research.google.com/notebooks/io.ipynb#scrollTo=eikfzi8ZT_rW) \
+[PyDrive Documentation](https://pythonhosted.org/PyDrive/index.html) \
+[PyDrive: cannot write file to specific GDrive folder](https://stackoverflow.com/questions/22934525/pydrive-cannot-write-file-to-specific-gdrive-folder) \
+[Google Drive SDK: I want to update a file, not create new one](https://stackoverflow.com/questions/33077334/google-drive-sdk-i-want-to-update-a-file-not-create-new-one)
