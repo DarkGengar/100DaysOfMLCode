@@ -688,4 +688,4 @@ the model parameters are saved as a file.
 **Today's Progress:** I have refactored my code of my Convolutional Neural Network and document the
 code.
 
-**Thoughts:** I hope that other people have a better chance to understand my notebooks now.
+**Thoughts:** I hope that other people have a better chance to understand my notebooks from now on.
