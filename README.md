@@ -674,3 +674,18 @@ the Neural Network in Google Colab.
 [PyDrive Documentation](https://pythonhosted.org/PyDrive/index.html) \
 [PyDrive: cannot write file to specific GDrive folder](https://stackoverflow.com/questions/22934525/pydrive-cannot-write-file-to-specific-gdrive-folder) \
 [Google Drive SDK: I want to update a file, not create new one](https://stackoverflow.com/questions/33077334/google-drive-sdk-i-want-to-update-a-file-not-create-new-one)
+
+## Day 74: December 5, 2018
+
+**Today's Progress:** I have updated the save feature. Now the model is not to be saved as a whole but
+the model parameters are saved as a file.
+
+**Links:** \
+[Serialization Semantics](https://pytorch.org/docs/master/notes/serialization.html)
+
+## Day 75: December 6, 2018
+
+**Today's Progress:** I have refactored my code of my Convolutional Neural Network and document the
+code.
+
+**Thoughts:** I hope that other people have a better chance to understand my notebooks now.
